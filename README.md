@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🌱 I’m currently studying at Oregon State University to aquire a BS in Computer Science. 
 
 <!--
 **michaelsams-osu/michaelsams-osu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
